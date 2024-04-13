@@ -1,5 +1,5 @@
 <template>
-  <div class="more-content">您可在此编写任意内容</div>
+  <div class="more-content">发送时间胶囊？<a href="mailto:timepill@leafing.xyz">点我</a></div>
 </template>
 
 <style lang="scss" scoped>
