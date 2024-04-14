@@ -5,6 +5,11 @@
     "link": "https://blog.leafing.xyz/"
   },
   {
+    "icon": "Music",
+    "name": "音乐解锁",
+    "link": "https://unlockmusic.leafing.xyz/"
+  },
+  {
     "icon": "ChartArea",
     "name": "服务器面板",
     "link": "http://mc.leafing.xyz:44130/"
