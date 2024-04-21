@@ -10,6 +10,11 @@
     "link": "https://unlockmusic.leafing.xyz/"
   },
   {
+    "icon": "Robot",
+    "name": "BingAI",
+    "link": "https://proxy-bingai.leafing.xyz/"
+  },
+  {
     "icon": "ChartArea",
     "name": "服务器面板",
     "link": "http://mc.leafing.xyz:44130/"
