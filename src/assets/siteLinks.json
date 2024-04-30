@@ -5,12 +5,17 @@
     "link": "https://blog.leafing.xyz/"
   },
   {
+    "icon": "Comments",
+    "name": "论坛",
+    "link": "https://forum.leafing.xyz/"
+  },
+  {
     "icon": "Music",
     "name": "音乐解锁",
     "link": "https://unlockmusic.leafing.xyz/"
   },
   {
-    "icon": "Robot",
+    "icon": "Microsoft",
     "name": "BingAI",
     "link": "https://proxy-bingai.leafing.xyz/"
   },
