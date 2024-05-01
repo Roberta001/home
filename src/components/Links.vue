@@ -43,8 +43,7 @@
 <script setup>
 import { Icon } from "@vicons/utils";
 // 可前往 https://www.xicons.org 自行挑选并在此处引入
-import { Link, Blog, CompactDisc, Cloud, Compass, Book, Fire, LaptopCode, ChartArea, BroadcastTower, Music, comment} from "@vicons/fa"; // 注意使用正确的类别
-import { robot } from "@vicons/tabler";
+import { Link, Blog, CompactDisc, Cloud, Compass, Book, Fire, LaptopCode, ChartArea, BroadcastTower, Music, Microsoft, Comments} from "@vicons/fa"; // 注意使用正确的类别
 import { mainStore } from "@/store";
 import { Swiper, SwiperSlide } from "swiper/vue";
 import { Pagination, Mousewheel } from "swiper";
@@ -75,6 +74,8 @@ const siteIcon = {
   ChartArea,
   BroadcastTower,
   Music,
+  Microsoft,
+  Comments,
 };
 
 // 链接跳转
